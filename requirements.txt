@@ -1,0 +1,2 @@
+boto3
+# used for invoking the foundation models 
